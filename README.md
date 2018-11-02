@@ -30,4 +30,4 @@ This repository contains my completed programming assignments and research paper
 
 
 **update**
--02/11/18 - initialized directories and added course certificates of completed courses.
+-02/11/18 - initialized directories and added programming assignments, papers and course certificates.
