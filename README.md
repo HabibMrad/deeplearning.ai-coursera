@@ -27,7 +27,3 @@ This repository contains my completed programming assignments and research paper
   <font size=1>Week1　Recurrent Neural Networks</font>  
   <font size=1>Week2　Natural Language Processing & Word Embeddings</font>  
   <font size=1>Week3　Sequence models & Attention mechanism</font>
-
-
-**update**
--02/11/18 - initialized directories and added programming assignments, papers and course certificates.
