@@ -1,7 +1,7 @@
 # deeplearning.ai-coursera
 This repository contains my completed programming assignments and research papers refrenced in the deeplearning.ai specialization by Andrew-Ng on Coursera.
 
-### Course Contents
+### Specialization Contents
 **course 1 - Neural Networks and Deep Learning**  
 	<font size=1>Week1　Introduction to deep learning</font>  
   <font size=1>Week2　Neural Networks Basics</font>   
