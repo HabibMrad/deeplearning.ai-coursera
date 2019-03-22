@@ -1,9 +1,12 @@
 # deeplearning.ai-coursera
 This repository contains my completed programming assignments and research papers refrenced in the deeplearning.ai specialization by Andrew-Ng on Coursera.
 
+#### Proof of my certification can be seen [here](https://www.coursera.org/account/accomplishments/specialization/QCBLQKUQQGUN).</br>
+#### Note: The material provided in this repository is only for helping those who may get stuck at any point of time in the course. It is strongly advised that no one should just copy the solutions(voilation of Coursera Honor Code) presented here.
+
 ### Specialization Contents
 **course 1 - Neural Networks and Deep Learning**  
-	<font size=1>Week1　Introduction to deep learning</font>  
+  <font size=1>Week1　Introduction to deep learning</font>  
   <font size=1>Week2　Neural Networks Basics</font>   
   <font size=1>Week3　Shallow Neural networks</font>   
   <font size=1>Week4　Deep Neural Networks</font>   
